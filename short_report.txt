@@ -1,0 +1,46 @@
+1. Which classifiers did you test?
+
+The following classifiers were tested:
+- SVM (Support Vector Machine)
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+- Random Forest
+
+--------------------------------------------------
+
+2. Which classifier gave the best accuracy?
+
+The SVM classifier gave the best accuracy in this project.
+(Results may vary depending on the train/test split.)
+
+--------------------------------------------------
+
+3. What does the confusion matrix show?
+
+The confusion matrix shows:
+- Correct predictions
+- Incorrect predictions
+- True positives
+- True negatives
+- False positives
+- False negatives
+
+It helps evaluate how well the classifier predicts each class.
+
+--------------------------------------------------
+
+4. Was the model good at predicting both classes?
+
+Yes. The model predicted both malignant and benign classes with high accuracy and only a small number of misclassifications.
+
+--------------------------------------------------
+
+5. Why is documentation important in an open-source ML project?
+
+Documentation is important because it helps other developers understand:
+- How the project works
+- How to install and run the code
+- What dataset and models were used
+- How to reproduce the results
+
+Good documentation makes collaboration and maintenance easier.
